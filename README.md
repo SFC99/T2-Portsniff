@@ -17,7 +17,7 @@ El desarrollo sigue un enfoque **modular, concurrente y con captura en tiempo re
 | 👨‍💻 **Integrante** | 🧩 **Módulo asignado** | 📝 **Descripción** |
 |----------------------|------------------------|--------------------|
 | **Juan Angel Rodríguez Bulnes** | 🔎 *Escaneo* | Implementación del escaneo **TCP/UDP** con **sockets no bloqueantes**, gestión de **timeouts** y clasificación de estados (*abierto*, *cerrado*, *filtrado*). |
-| **Sofía Flores Martínez Cisneros** | 📡 *Sniffer* | Captura de paquetes con **libpcap**, configuración de filtros **BPF dinámicos** por IP y puerto, y extracción de **bytes de cabecera**. |
+| **Sofía Martínez Cisneros** | 📡 *Sniffer* | Captura de paquetes con **libpcap**, configuración de filtros **BPF dinámicos** por IP y puerto, y extracción de **bytes de cabecera**. |
 | **Angel David Morales Palomo** | 🧾 *JSONGen* | Generación manual del archivo **JSON** usando **streams de C++**, garantizando compatibilidad, portabilidad y control total sobre el formato. |
 
 ---
